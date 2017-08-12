@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_prompt">Choose a language</string>
+    <string-array name="language_arrays">
+        <item>select language</item>
+        <item>polish</item>
+        <item>english</item>
+        <item>french</item>
+        <item>german</item>
+        <item>russian</item>
+        <item>spanish</item>
+    </string-array>
+
+    <string name="country_prompt">Choose a country</string>
+    <string-array name="country_arrays">
+        <item>select Country</item>
+        <item>Poland</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Russia</item>
+        <item>Spain</item>
+    </string-array>
+</resources>
+
